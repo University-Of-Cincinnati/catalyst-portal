@@ -11,3 +11,8 @@ In order to make this work, the student portal application is contained in one m
 In order to allow students to minimize noise and focus on the content that matters to them, the student portal will allow both navigation and information cards to be collapsed.  This is a per device setting that will be persisted using browser storage.
 
 ![Collapsible Cards](/collapse.gif)
+
+### Virtual Tabs
+Traditional Interaction Hub / Campus Solution tabs require a full page reload every time a tab is changed.  This improvement utilizes javascript to 'hijack' the tabs and simply switch the view embded in the current tab's pagelet.  The benefit to this is that by avoiding a round trip to the server, the page only needs to load the data that is required.  Once the data is loaded, the response is instaneous.
+
+![Virtual Tabs](/vitual_tabs.gif)
