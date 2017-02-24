@@ -10,4 +10,4 @@ In order to make this work, the student portal application is contained in one m
 ### Collapsible Cards
 In order to allow students to minimize noise and focus on the content that matters to them, the student portal will allow both navigation and information cards to be collapsed.  This is a per device setting that will be persisted using browser storage.
 
-![Collapsible Cards](/card_collapse.gif)
+![Collapsible Cards](/collapse.gif)
