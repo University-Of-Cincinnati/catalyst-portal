@@ -16,3 +16,8 @@ In order to allow students to minimize noise and focus on the content that matte
 Traditional Interaction Hub / Campus Solution tabs require a full page reload every time a tab is changed.  This improvement utilizes javascript to 'hijack' the tabs and simply switch the view embded in the current tab's pagelet.  The benefit to this is that by avoiding a round trip to the server, the page only needs to load the data that is required.  Once the data is loaded, the response is instaneous.
 
 ![Virtual Tabs](/vitual_tabs.gif)
+
+###Cross Tab Navigation Search
+Because all the tabs are virtual, the navigation collections use by each student tab are available for searching.  This will allow the student to quickly find the links they are looking for using fuzzy matching.
+
+![Navigation Search](/navsearch.gif)
