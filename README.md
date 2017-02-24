@@ -5,4 +5,4 @@ Even though Catalyst is built on Peoplesoft Interaction Hub / Campus Solutions, 
 
 In order to make this work, the student portal application is contained in one main pagelet.  This pagelet contains cards that make up the student portal experience. 
 
-![]({{site.baseurl}}//screen1.png)
+![]({{site.baseurl}}//academics.png)
